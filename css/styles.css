@@ -2,17 +2,37 @@
     background-image: url(./img/image-01);
     background-repeat: no-repeat;
     background-position: center center;
-}
 
+}
 
 
 .header {
     text-align: center;
-    color: #f01023;
+    color: #0a5004;
+    font-size: 120%;
+    backdrop-filter: blur(4px);
+    /* Размываем фон */
+    background: rgba(255, 255, 255, 0.4);
+    /* Белый фон с полупрозрачностью */
+    width: 700px;
+    /* Ширина блока */
+    padding: 20px;
+    /* Поля вокруг текста */
+
+
 }
 
 ul {
 
-    font-size: 150%;
-    color: #0816d8;
+    font-size: 120%;
+    color: #414146;
+
+    backdrop-filter: blur(4px);
+    /* Размываем фон */
+    background: rgba(255, 255, 255, 0.4);
+    /* Белый фон с полупрозрачностью */
+    width: 800px;
+    /* Ширина блока */
+    padding: 20px;
+    /* Поля вокруг текста */
 }
