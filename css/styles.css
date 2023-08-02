@@ -1,0 +1,18 @@
+.html {
+    background-image: url(./img/image-01);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+
+
+.header {
+    text-align: center;
+    color: #f01023;
+}
+
+ul {
+
+    font-size: 150%;
+    color: #0816d8;
+}
